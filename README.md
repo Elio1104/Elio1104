@@ -34,6 +34,7 @@
 
 ## 📫 Connect with Me
 💼 **LinkedIn**: [linkedin.com/in/aaron-londot](#)
+
 📧 **Email**: [alondot@student.s19.be](#)
 
 ---
