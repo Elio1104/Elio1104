@@ -33,7 +33,7 @@
 🎮 Passionné de jeux vidéo | ♟️ Joue aux échecs | 🏃‍♂️ Course à pied – Objectif **Marathon** | 🎨 Apprend le dessin | 🍜 Amoureux de ramen
 
 ## 📫 Connect with Me
-💼 **LinkedIn**: [[linkedin.com/in/aaron-londot](https://www.linkedin.com/in/aaron-londot-934265303/)](#)
+💼 **LinkedIn**: [linkedin.com/in/aaron-londot](https://www.linkedin.com/in/aaron-londot-934265303/)
 
 📧 **Email**: [alondot@student.s19.be](#)
 
