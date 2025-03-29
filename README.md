@@ -21,7 +21,7 @@
 
 🔹 **[Ft-Transcendence](https://github.com/Elio1104/ft_trancendence)** – Développement d'un site web complet sous Docker, intégrant backend, frontend et base de données en Full API REST. Le projet comprend un système d'hébergement de jeu Pong avec gestion des utilisateurs, des tournois, des classements, le tout sécurisé, en 3D, et compatible avec divers navigateurs et appareils.
 
-🔹 **[Webserv 42](https://github.com/Elio1104/ft_trancendence)** – Serveur web codé en C++, supportant les CGI et intégrant les principes de client/serveur ainsi que les protocoles HTTP(S).
+🔹 **[Webserv 42](https://github.com/Elio1104/webserv)** – Serveur web codé en C++, supportant les CGI et intégrant les principes de client/serveur ainsi que les protocoles HTTP(S).
 
 🔹 **[Poke-Java](https://github.com/Elio1104/poke-java)** – Projet visant à recréer **Pokémon Diamant/Perle** en Java, en mettant en place une architecture solide et modulaire.
 
