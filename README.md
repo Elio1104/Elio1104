@@ -23,14 +23,16 @@
 
 🔹 **[Webserv 42](https://github.com/Elio1104/webserv)** – Serveur web codé en C++, supportant les CGI et intégrant les principes de client/serveur ainsi que les protocoles HTTP(S).
 
-🔹 **[Poke-Java](https://github.com/Elio1104/poke-java)** – Projet visant à recréer **Pokémon Diamant/Perle** en Java, en mettant en place une architecture solide et modulaire.
+🔹 **[Valor-Angular](https://github.com/Elio1104/League-of-Angular)** – Projet reproduisant un OP.GG pour League Of Legends et Valorant, permettant d'apprendre Angular.
+
+🔹 **[FullStack Spring/Angular](https://github.com/Elio1104/fullstack-project)** – Projet final REST API pour Technofutur TIC, en Spring / Angular, permettant de mettre en pratique toutes les techniques que j'ai pu apprendre le long de ma formation.
 
 ## 🌍 Languages & Interests
 - Français 🇫🇷 (Natif)
 - Anglais 🇬🇧 (Professionnel)
 - Japonais 🇯🇵 (Débutant, quelques minutes par jour !)
 
-🎮 Passionné de jeux vidéo | ♟️ Joue aux échecs | 🏃‍♂️ Course à pied – Objectif **Marathon** | 🎨 Apprend le dessin | 🍜 Amoureux de ramen
+🎮 Passionné de jeux vidéo | 🏃‍♂️ Course à pied – Objectif **Marathon** | 🎨 Apprend le dessin | 🍜 Amoureux de ramen
 
 ## 📫 Connect with Me
 💼 **LinkedIn**: [linkedin.com/in/aaron-londot](https://www.linkedin.com/in/aaron-londot-934265303/)
