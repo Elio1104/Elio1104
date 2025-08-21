@@ -25,8 +25,6 @@
 
 🔹 **[Valor-Angular](https://github.com/Elio1104/League-of-Angular)** – Projet reproduisant un OP.GG pour League Of Legends et Valorant, permettant d'apprendre Angular.
 
-🔹 **[FullStack Spring/Angular](https://github.com/Elio1104/fullstack-project)** – Projet final REST API pour Technofutur TIC, en Spring / Angular, permettant de mettre en pratique toutes les techniques que j'ai pu apprendre le long de ma formation.
-
 ## 🌍 Languages & Interests
 - Français 🇫🇷 (Natif)
 - Anglais 🇬🇧 (Professionnel)
